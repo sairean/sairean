@@ -1,5 +1,6 @@
 # S
-<h style="font-size: 50px;">This text will be displayed in a larger font size.</h>
+markdown
+# This text will be displayed in a larger font size
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
