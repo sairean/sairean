@@ -1,11 +1,5 @@
 # S
-markdown
 
-<style>
-h1 {
-  # This text will be displayed in a larger font size;
-}
-</style>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
