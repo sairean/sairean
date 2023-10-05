@@ -1,9 +1,9 @@
 # S
 markdown
-# This text will be displayed in a larger font size
+
 <style>
 h1 {
-  text-decoration: none;
+  # This text will be displayed in a larger font size;
 }
 </style>
 Here are some ideas to get you started:
