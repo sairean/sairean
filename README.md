@@ -3,12 +3,9 @@
 
 
 
-<div align="center" , font-size= "24px;">
-
-You have finally discovered my Github profile. <br>
-
-
-</div>
+|               |
+|:-------------:|
+|   # Your text |
 
 
 Here are some ideas to get you started:
