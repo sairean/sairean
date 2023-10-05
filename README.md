@@ -3,7 +3,7 @@
 
 </div>
 
-<div align="center" font-size= "24px;">
+<div align="center" , font-size= "24px;">
 
 You have finally discovered my Github profile. <br>
 
