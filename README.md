@@ -1,5 +1,16 @@
 # S
-<i>Follow me around the web:</i><br>
+
+
+</div>
+
+<div align="center" font-size= "24px;">
+
+You have finally discovered my Github profile. <br>
+
+
+</div>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
