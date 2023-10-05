@@ -1,4 +1,4 @@
-# 👽Sairean Code ₿
+# ₿ Sairean Code
 
 
 
