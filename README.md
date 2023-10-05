@@ -7,14 +7,9 @@
 |               |
 |:-------------:|
 |   The reference of the best training in the field of : |
-
-- 🧬 Technology
-- 💻 Programming
-- ⚙️ Marketing
-- 💶Financial Markets, 📉Crypto
-- 🤖Source Code, Tools and Bots
-- Service and Marketing Telegram , Discord ,  Instagram and other social media
-- Tools and Services to improve the practice of buying and selling 
+- ⚙️ Marketing and Service Telegram , Discord ,  Instagram and other social media
+- 🤖 Programming and Source Code, Tools and Bots
+- 💻 Tools and Services to improve the practice of buying and selling in 📉Financial Markets ,Crypto
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
