@@ -1,5 +1,5 @@
 # S
-<big>This text will be displayed in a bigger font size.</big>
+<span class="big-font">This text will be displayed in a bigger font size.</span>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
